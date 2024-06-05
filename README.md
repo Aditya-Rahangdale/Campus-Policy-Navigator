@@ -1,10 +1,10 @@
-# PolicyPro ChatBot
+# Campus Policy Navigator
 
 ---
 
 ## Description
 
-PolicyPro ChatBot is a chatbot specifically designed for VIT Bhopal University to provide information on university policies. Powered by Google Gemini API, this chatbot offers an intuitive interface for students and faculty to quickly access and understand university policies.
+Campus Policy Navigator is a chatbot specifically designed for VIT Bhopal University to provide information on university policies. Powered by Google Gemini API, this chatbot offers an intuitive interface for students and faculty to quickly access and understand university policies.
 
 ## Features
 
@@ -46,6 +46,6 @@ npm start
 
 ## Credits
 
-- Developed by Arnold Pascal
+- Developed by Aditya Rahangdale
 - Powered by Google Gemini API
 - Built with Node.js, Express.js, HTML, CSS, and JavaScript
